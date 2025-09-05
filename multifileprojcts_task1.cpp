@@ -1,6 +1,6 @@
 ﻿#include <iostream>
-#include "srcfile.cpp"
-#include "headerfile.h"
+#include "math_functions.cpp"
+#include "math_functions.h"
 
 // Выберите операцию (1 - сложение, 2 вычитание, 3 - умножение, 4 - деление, 5 - возведение в степень): 5
 
